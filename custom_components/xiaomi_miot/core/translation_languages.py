@@ -165,6 +165,7 @@ TRANSLATION_LANGUAGES = {
             'wakeup': '清晨唤醒',
             'dusk': '黄昏明亮',
             'sleeping': '夜晚助眠',
+            'sleep': '夜晚助眠',
             'night light': '夜灯模式',
         },
 
